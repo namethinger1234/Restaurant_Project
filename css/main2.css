@@ -55,6 +55,7 @@ body {
 
 .main {
 	background: #E3E4DB;
+	z-index: 10s;
 
 footer {
 	background: #8EDCE6;
