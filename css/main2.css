@@ -54,8 +54,14 @@ body {
 }
 
 .main {
-	background: #E3E4DB;
-	z-index: 10s;
+	background: #AED1E6;
+	margin: 0;
+  	padding: 100px 0 5px 0;
+  	z-index: 5;
+  	height: 70%;
+	width: 100%;
+  	display: inline-block;
+  	text-align: center;
 }
 
 footer {
